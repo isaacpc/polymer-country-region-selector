@@ -1,6 +1,6 @@
 {
   "name": "polymer-country-region-selector",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "homepage": "https://github.com/benkeen/polymer-country-region-selector",
   "authors": [
     "Ben Keen <ben.keen@gmail.com>"
@@ -30,6 +30,6 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#~0.2.4"
+    "polymer": "Polymer/polymer#^1.6.0"
   }
 }
